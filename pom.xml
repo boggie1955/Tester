@@ -3,4 +3,11 @@
   <groupId>pl.com.lessons</groupId>
   <artifactId>Tester</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+  	<groupId>pl.com.lessons.utility</groupId>
+  	<artifactId>Utility</artifactId>
+  	<version>0.0.4</version>
+  </dependency>
+  </dependencies>
 </project>
